@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    margin-top: 19px;
+    background-color: rgba(8, 8, 8,0.3);
+}
+.btn{
+ float: right;
+}
+.form{
+    width: 23%;
+}
+label{
+    padding: 6px 0px 6px 0px;
+    font-size: 19px;
+}
+input{
+    padding: 6px;
+    width: 100%;
+    border: none;
+}
+
+textarea{
+    padding: 6px;
+    width: 100%;
+}
+select{
+    width: 100%;
+}
+
